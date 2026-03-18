@@ -44,7 +44,7 @@ All created by prompting + Grok/Claude for plans/docs, then Vapi for voice setup
 ## Tools & Stack I'm Vibing Right Now
 - **Core:** Vapi (voice agents, custom tools, phone numbers, file/knowledge upload)  
 - **Prompting & Docs:** Grok (plans/ideas), Claude (document generation, PDFs, compression)  
-- **Integrations:** Twilio (SMS/MMS/calls), Make.com (automations), Serper (real-time search/API pulls)  
+- **Integrations:** Twilio (SMS/MMS/calls), Make.com (automations), Serper (real-time search/API pulls), tavily (API pulls)  
 - **Learnings so far:**  
   - Extract/create API keys & use for cross-ref data  
   - Build/upload compressed knowledge bases (PDFs from Claude)  
