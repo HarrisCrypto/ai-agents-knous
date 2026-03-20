@@ -60,3 +60,7 @@ All projects WIP – drop a star ⭐ or fork if you're vibing too!
 Let's keep building – next up: more agents + polish these.  
 Jason | Los Angeles 🌴
 Initial vibe hub dashboard ✅
+<img width="1332" height="796" alt="Vapi-files" src="https://github.com/user-attachments/assets/85445514-286f-4fef-9d09-e893a7261641" />
+<img width="1314" height="853" alt="vapihomepage" src="https://github.com/user-attachments/assets/53abd2d9-88ca-4cf9-b766-bc801bc2e9f3" />
+<img width="1294" height="814" alt="VapiAgentsHomePage" src="https://github.com/user-attachments/assets/0d72168d-e231-4500-accd-580a8f7fb4e8" />
+<img width="1283" height="692" alt="Vapi-tools" src="https://github.com/user-attachments/assets/088dde0d-e411-4645-a891-35faa3b5a81e" />
