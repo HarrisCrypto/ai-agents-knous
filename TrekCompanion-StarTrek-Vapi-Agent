@@ -30,7 +30,7 @@ Uses Claude model + custom tool `trekResearch` to search web via Serper.dev + Ma
      - Last: Vapi Respond to Tool Call
 
 4. **Serper.dev API Key**
-   - Key: 4256806f4203882f0439c0d145edf6b1c347ca95
+   - Key: [your Serper API key]
    - Credits: check https://serper.dev/dashboard
    - Cost: ~$0.001 per search — very cheap
 
